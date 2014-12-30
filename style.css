@@ -1,0 +1,32 @@
+body{
+	background: url('images/wallp1.jpg');
+    background-repeat: repeat;
+	font-family: Cambria, "Hoefler Text", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+	color:rgb(123, 190, 192);
+	font-size:100%;
+	padding:0;
+}
+#countdown{
+	margin: 0 auto;
+	margin-top: 20%;
+	font-size:4em;
+	width:560px;
+}
+#deta{
+	font-size:.5em;
+}
+table {
+	border:solid 2px rgb(25, 25, 115);
+}
+td {
+	border:solid 2px rgb(25, 25, 115);
+	padding-top:0;
+	margin-top:0;
+}
+th {
+	border:solid 2px rgb(25, 25, 115);
+	font-weight:normal;
+	border-bottom:0;
+	padding-bottom:0;
+	margin-bottom:0;
+}
